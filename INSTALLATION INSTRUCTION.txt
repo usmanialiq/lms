@@ -1,0 +1,20 @@
+After extraction
+==================
+
+1. Install back-end packages
+Run -> yarn install in the root folder
+
+2. Install front-end packages
+Run -> cd client
+Run -> yarn install
+
+Once both installations are done
+open a new terminal
+================================
+To run the back-end service (make sure mongodb is running)
+Run -> yarn start:dev
+
+To run the front-end service
+On a new terminal
+run -> cd client
+run -> yarn start
