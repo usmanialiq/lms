@@ -15,4 +15,4 @@
 ## Author
 
 - Name: Muhammad Usma Ali
-- Email: usman.ali@findmyadventure.pk
+- Email: usmanialiq@gmail.com
