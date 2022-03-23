@@ -14,5 +14,5 @@
 
 ## Author
 
-- Name: Muhammad Usma Ali
+- Name: Muhammad Usman Ali
 - Email: usmanialiq@gmail.com
